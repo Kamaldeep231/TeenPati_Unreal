@@ -75,6 +75,27 @@
 		{
 			"Name": "MetaHumanRuntime",
 			"Enabled": true
+		},
+		{
+			"Name": "LiveLinkExampleDevice",
+			"Enabled": true
+		},
+		{
+			"Name": "LiveLinkOBSDevice",
+			"Enabled": true
+		},
+		{
+			"Name": "LiveLinkUnrealDevice",
+			"Enabled": true
+		},
+		{
+			"Name": "MetaHumanDepthProcessing",
+			"Enabled": true,
+			"SupportedTargetPlatforms": [
+				"Win64",
+				"Mac",
+				"Linux"
+			]
 		}
 	]
 }
